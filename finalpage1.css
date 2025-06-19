@@ -1,0 +1,46 @@
+body   {
+    background-color: lightskyblue;
+}
+
+.supercoolclass {
+    color: black;
+    margin:0% ;
+    text-align: center;
+    border: 5px solid black;
+    border-radius: 10px;
+    padding: 25px;
+    margin: 4px 10px;
+    font-family: monospace;
+
+}
+.class2 {
+    color: red;
+    text-align: center;
+    font-family: monospace;
+}
+
+#mainlinks {
+    color: red ;
+}
+#mainlinks:hover {
+color: navy;
+}
+
+#mainlinks1:hover {
+    color: navy;
+}
+#mainlinks1 {
+color: red;
+}
+
+#mainlinks2:hover {
+color: navy;
+}
+
+#mainlinks2 { 
+color: red;
+}
+ 
+
+
+

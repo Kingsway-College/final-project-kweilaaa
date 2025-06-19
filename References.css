@@ -1,0 +1,20 @@
+body {
+    background-color: crimson;
+}
+
+.supercoolclass {
+    color: black;
+    margin: 0%;
+    text-align: center;
+    border:  5px solid black;
+    border-radius: 10px;
+    padding: 25px;
+    margin:  4px 10px;
+    font-family: monospace;
+}
+
+.awesomeclass {
+    color: black;
+    text-align: center;
+    font-family: monospace;
+}
